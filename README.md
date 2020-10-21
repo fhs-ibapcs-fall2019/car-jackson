@@ -1,2 +1,2 @@
 # Car
-An initial Car class
+Submission for the car class assignment.
